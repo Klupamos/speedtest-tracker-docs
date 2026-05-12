@@ -8,10 +8,10 @@ description: >-
 # Introduction
 
 {% hint style="info" %}
-Docs are up-to-date through version: `v1.13.x`
+Docs are up-to-date through version: `v1.14.x`
 {% endhint %}
 
-<figure><img src=".gitbook/assets/dashboard.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/dashboard (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Why might I want this?
 
