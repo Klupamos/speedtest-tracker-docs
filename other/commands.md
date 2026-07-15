@@ -6,7 +6,11 @@ description: >-
 
 # Commands
 
-Commands are intended to be run from within the CLI of the container and from the application's root directory. The application directory is located at: `/app/www`
+Commands are intended to be run from within the CLI of the container and from the application's directory.&#x20;
+
+{% hint style="info" %}
+The application directory is located at `/app/www` .
+{% endhint %}
 
 When using the commands below they should be prefixed with `php artisan`, so the `about` command will look like `php artisan about`.
 
